@@ -1,0 +1,19 @@
+
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(³Çõ§üÿÿÿÿ8Ì‡í‹å.
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(Ëº‘“ûÿÿÿÿ8À‘¯šå.
+a
+java:S2147@"DCombine this catch with the one at line 62, which has the same body.(ï­£Ä8¯ÔŠŒå.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(ù´Â¤ıÿÿÿÿ8Ğî‹å.
+a
+java:S2147 "DCombine this catch with the one at line 30, which has the same body.(ï­£Ä8»Á‹å.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ªÌ·¡ùÿÿÿÿ8äøï‹å.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(§ôõä8Ê•ç‹å.
+>	java:S131}""Add a default case to this switch.(ÚÆ§î8ª¬û‹å.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(†Ïø“ùÿÿÿÿ8ÚŞë‹å.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(Š›Ğ8¦®ñ‹å.
+>	java:S131F""Add a default case to this switch.(ÿïñƒ8 ëå‹å.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(Ó‘Öéıÿÿÿÿ8Üıê‹å.
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(…®¿üÿÿÿÿ8ÛËğ‹å.
+>	java:S131e""Add a default case to this switch.(ÿïñƒ8—¬ššå.
+a
+java:S21470"DCombine this catch with the one at line 46, which has the same body.(ï­£Ä8°Ãšå.
