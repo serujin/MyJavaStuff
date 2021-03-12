@@ -49,8 +49,16 @@ public class XMLFileHandler {
         StringBuilder builder = new StringBuilder();
         NodeList children = node.getChildNodes();
         NamedNodeMap attributes = node.getAttributes();
-        if(node.getNodeName().equals(dom.getElementsByTagName(this.rootName).item(0).getChildNodes().item(0).getNodeName())) {
-            builder.append("\n");
+        builder.append("");
+        if(children != null) {
+            if(node.getNodeName()
+                    .equals(dom.getElementsByTagName(this.rootName)
+                            .item(0).
+                            getChildNodes().
+                            item(0).
+                            getNodeName())) {
+                builder.append("\n");
+            }
         }
         if(attributes != null) {
             addAttributes(builder, node, attributes, attrSpace, valueSpace);
